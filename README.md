@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Khamit
 
-<!--
-**Khamit/Khamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Mobile Engineer
 
-Here are some ideas to get you started:
+- 💙 Flutter & Dart
+- 🐍 Python
+- ⚙️ C++
+- 📍 Kazakhstan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Flutter
+- Dart
+- Firebase
+- Python
+- C++
+
+### Featured Projects
+- 🔹 [Flutter_C++_Engine](https://github.com/Khamit/flutter_cpp_physics_engine)
+- 🔹 [Mary_C++_AI](https://github.com/Khamit/cpp_ai_mary)
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Khamit&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamit&layout=compact)
