@@ -1,6 +1,6 @@
 # Hi 👋 I'm Khamit
 
-## 🚀 Mobile Engineer
+## Mobile Engineer
 
 - 💙 Flutter & Dart
 - 🐍 Python
