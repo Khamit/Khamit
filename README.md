@@ -1,25 +1,84 @@
-# Hi 👋 I'm Khamit
+<div align="center">
 
-## Mobile Engineer
+# Hi there, I'm Khamit!
 
-- 💙 Flutter & Dart
-- 🐍 Python
+### Mobile Engineer • Flutter Expert • C++ Developer • AI Enthusiast
+
+<p>
+  <a href="https://combi.kz">
+    <img src="https://img.shields.io/badge/Company-Combi.kz-2563EB?style=for-the-badge"/>
+  </a>
+  <a href="mailto:khamit@combi.kz">
+    <img src="https://img.shields.io/badge/Email-khamit@combi.kz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Khamit&style=for-the-badge&color=0e75b6"/>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Mobile Engineer** from **Kazakhstan**, focused on building high-performance mobile applications and developer tools.
+
+- 📱 Flutter & Dart
 - ⚙️ C++
-- 📍 Kazakhstan
+- 🐍 Python
+- 🤖 AI Applications
+- 🏢 Founder of **Combi.kz**
 
-### Tech Stack
-- Flutter
-- Dart
-- Firebase
-- Python
-- C++
+---
 
-### Featured Projects
-- 🔹 [Flutter_C++_Engine](https://github.com/Khamit/flutter_cpp_physics_engine)
-- 🔹 [Mary_C++_AI](https://github.com/Khamit/cpp_ai_mary)
+## Tech Stack
 
-### GitHub Stats
+<p align="left">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Khamit&show_icons=true)
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,firebase,git,github,docker,linux,vscode,androidstudio"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamit&layout=compact)
+</p>
+
+---
+
+## Featured Projects
+
+### ⚡ Flutter C++ Physics Engine
+High-performance physics engine for Flutter written in modern C++.
+
+🔗 https://github.com/Khamit/flutter_cpp_physics_engine
+
+---
+
+### Mary C++ AI
+
+Experimental AI assistant built with modern C++.
+
+🔗 https://github.com/Khamit/cpp_ai_mary
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khamit&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khamit&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Khamit&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
+
+🌐 Website: https://combi.kz
+
+📧 khamit@combi.kz
+
+💻 GitHub: https://github.com/Khamit
