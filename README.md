@@ -34,7 +34,7 @@ I'm a **Mobile Engineer** from **Kazakhstan**, focused on building high-performa
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,firebase,git,github,docker,linux,vscode,androidstudio,kotlin,swift,ts,react,js,sql"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,firebase,git,github,docker,linux,vscode,androidstudio,kotlin,swift,ts,react,js"/>
 
 </p>
 
@@ -61,7 +61,10 @@ Experimental AI assistant built with modern C++.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khamit&show_icons=true&theme=github_dark&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khamit&show_icons=true&theme=github_dark"
+/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khamit&layout=compact&theme=github_dark&hide_border=true"/>
 
