@@ -22,7 +22,7 @@
 
 I'm a **Mobile Engineer** from **Kazakhstan**, focused on building high-performance mobile applications and developer tools.
 
-- 📱 Flutter & Dart
+- 📱 Flutter & Dart (Kotlin, Swift)
 - ⚙️ C++
 - 🐍 Python
 - 🤖 AI Applications
@@ -34,7 +34,7 @@ I'm a **Mobile Engineer** from **Kazakhstan**, focused on building high-performa
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,firebase,git,github,docker,linux,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,firebase,git,github,docker,linux,vscode,androidstudio,kotlin,swift,ts,tsx,js,ue5"/>
 
 </p>
 
