@@ -57,6 +57,13 @@ Experimental AI assistant built with modern C++.
 
 ---
 
+### Flutter BarBase
+Detecting products with iPhone using local AI on phone
+
+🔗 https://www.patreon.com/lordekz/posts/how-detect-saved-164522052?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+
+---
+
 ## GitHub Stats
 
 <p align="center">
