@@ -22,11 +22,13 @@
 
 I'm a **Mobile Engineer** from **Kazakhstan**, focused on building high-performance mobile applications and developer tools.
 
-- 📱 Flutter & Dart (Kotlin, Swift)
-- ⚙️ C++
-- 🐍 Python
-- 🤖 AI Applications
-- 🏢 Founder of **Combi.kz**
+- Flutter & Dart (Kotlin, Swift)
+- C++
+- Python
+- AI Applications
+- Founder of **Combi.kz**
+- https://www.indiehackers.com/lordekz
+- https://www.producthunt.com/@lordekz
 
 ---
 
